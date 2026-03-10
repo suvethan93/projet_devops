@@ -4,8 +4,8 @@
 ---
 
 ## Binôme
-* ** Suvethan** (@suvethan93)
-* ** Mattéo da silva**
+* **Suvethan** (@suvethan93)
+* **Mattéo**
 
 ## Objectifs du Projet
 L'objectif est de démontrer la maîtrise de la chaîne de déploiement moderne :
